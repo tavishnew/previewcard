@@ -145,7 +145,7 @@ body{
     .container{
         display: grid;
         justify-content: center;
-        width:25em ;
+        width:20em;
         max-height:100em;
     }
     
