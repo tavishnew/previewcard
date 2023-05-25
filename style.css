@@ -112,7 +112,7 @@ body{
     color: hsl(228, 45%, 44%); 
     text-decoration: none;
 }
-@media (max-width: 640px) and (min-width: 320px){
+@media (max-width: 640px) and (min-width: 400px){
     .container{
         display: grid;
         justify-content: center;
